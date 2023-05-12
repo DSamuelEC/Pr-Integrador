@@ -1,0 +1,11 @@
+.contenedor{
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    background-image: url('../Assets/BackGround.jpg');
+    background-size: cover;
+
+    background-repeat: no-repeat;
+  background-position: center;
+}
